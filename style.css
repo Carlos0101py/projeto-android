@@ -53,7 +53,7 @@ main{
     text-align: center;
     background-color: white;
     padding: 30px;
-    margin: 1px 15% auto 15%;
+    margin: 0px auto 0px auto;
     min-width: 300px;
     max-width: 1000px;
 }
